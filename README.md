@@ -1,0 +1,1 @@
+This Repository contains all the relevant data that was evaluated as part of the paper "Large Language Models vs Humans on Sarcasm Detection in German Soccer Tweets" by Vadim Rodt, Abdelaziz S. M., and Frank Domahs.
